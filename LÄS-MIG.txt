@@ -1,0 +1,16 @@
+Poängräknare – filer för gratis webbhotell
+==========================================
+
+Ladda upp HELA innehållet i den här mappen (index.html, manifest.webmanifest,
+sw.js samt mapparna fonts och icons) till en värd med HTTPS, t.ex.
+GitHub Pages, Netlify eller Cloudflare Pages.
+
+Installera på iPhone:
+1. Öppna sidans adress i Safari.
+2. Tryck på Dela-knappen och välj "Lägg till på hemskärmen".
+3. Tryck Lägg till. Starta sedan appen från ikonen.
+
+Uppdatera appen senare: ändra filerna, ladda upp dem igen och höj
+versionsnumret på raden "const CACHE" i sw.js (t.ex. poangraknare-v2).
+
+Typsnittet Bebas Neue ligger under SIL Open Font License (fonts/OFL.txt).
